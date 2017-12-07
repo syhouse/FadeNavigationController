@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App360.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>1ADFBE6D249DBFDE05C00FAE0A551B7609CA294A</string>
+				<key>dateExpires</key>
+				<string>2019/7/6</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>99U4M97ELK.com.xtownmobile.app360</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>99U4M97ELK</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>99U4M97ELK.com.xtownmobile.app360</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>App360.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>eba8a494-477a-4f0b-9f77-f1509cfc495b</string>
+				<key>name</key>
+				<string>General_InHouse_New</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>99U4M97ELK</string>
+				<key>name</key>
+				<string>Guangzhou Yuncheng Information Technology Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
