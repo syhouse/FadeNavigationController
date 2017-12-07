@@ -8,7 +8,6 @@
 
 #import "AppDelegate.h"
 #import "ViewController.h"
-#import "GKFadeNavigationController.h"
 
 #import "SYNavigationController.h"
 
